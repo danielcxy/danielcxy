@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estudo FrontEnd e quero trabalhar na área.
-- 🌱 Atualmente HTML, CSS, JAVASCRIPT, REACTJS e TYPESCRIPT
+- 🌱 Atualmente estudando HTML, CSS, JAVASCRIPT, REACTJS e TYPESCRIPT
 - 👯 Sempre me dou bem em colaboração de WorkTeam
 - 🤔 Sempre querendo evoluir com a ajuda dos outros em JAVASCRIPT, REACT, TYPESCRIPT.
 - ⚡ Fun fact: Sempre amei o ramo da tecnologia, mas só me dei conta deste fato aos 21 anos.
